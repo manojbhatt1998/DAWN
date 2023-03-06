@@ -8,13 +8,13 @@ npm run shopify ngrok auth
 npm run shopify app dev
 
 shopify node serve
-npm run dev -- --reset
+To reset your default dev config, run -->    `npm run dev -- --reset`  
 
 
-to intall git in window -- winget install --id Git.Git -e --source winget
+to intall git in window -->   winget install --id Git.Git -e --source winget
 
 
 
 COMMANDS
-   npm run shopify app env pull  Pull app and extensions environment variables
-    npm run shopify app env show  Display app and extensions environment variables
+  Pull app and extensions environment variables --> npm run shopify app env pull  
+   Display app and extensions environment variables --> npm run shopify app env show 
